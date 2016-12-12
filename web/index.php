@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link href="assets/style.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
       <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
       <script>
 		function setVolume() {
