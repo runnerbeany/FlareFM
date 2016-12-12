@@ -10,6 +10,7 @@
 	</script>
     </head>
     <body>
+	<img src="FLAREFM.png" alt="Logo">
         <ul>
             <li class="border"><a href="default.asp">Instagram</a></li>
             <li class="border"><a href="http://twitter.com/FlareRadio">Twitter</a></li>
