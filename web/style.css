@@ -63,3 +63,16 @@ h1 {
     transform: translate(50%,50%);
     position: absolute;
 }
+
+footer {
+    position: fixed;
+    z-index: 100; 
+    bottom: 0; 
+    left: 23px;
+    width: 100%;
+}
+
+h2 {
+    font-family: Open Sans;
+    font-size: 20px;
+}
