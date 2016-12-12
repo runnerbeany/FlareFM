@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 ul {
     list-style-type: none;
     margin: 0;
@@ -13,7 +13,7 @@ li {
 }
 
 li a {
-    font-family: 'Open Sans';
+    font-family: 'Poppins';
     display: block;
     color: white;
     text-align: center;
@@ -48,7 +48,7 @@ body {
 
 h1 {
     display: inline;
-    font-family: Open Sans;
+    font-family: Poppins;
     font-size: 25px;
 }
 
@@ -73,6 +73,6 @@ footer {
 }
 
 h2 {
-    font-family: Open Sans;
+    font-family: Poppins;
     font-size: 20px;
 }
