@@ -64,5 +64,6 @@
       </script>
     </body>
     <footer>
+	    <h2>&copy; FlareFM 2016</h2>
     </footer>
 </html>
