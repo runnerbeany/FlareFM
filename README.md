@@ -1,4 +1,9 @@
 # FlareFM
-FlareFM bot
+###Bot
+The official Discord bot. More information coming soon.
 
-We say bot but we really mean anything to do with Flare.
+###Website
+The official website homepage. Coded by Luke (Awora).
+It includes:
++Radio Player
++Links to forums, Twitter and Instagram.
