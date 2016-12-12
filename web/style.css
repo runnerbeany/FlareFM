@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    float: right;
+}
+
+li {
+    float: right;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+li a {
+    font-family: 'Open Sans';
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+/* Add a gray right border to all list items, except the last item (last-child) */
+li.border {
+    border-left: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+body {
+  background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    /* bottom, image */
+    url(background.png);
+}
+.player{margin-top:30px;}input[type='range']{-webkit-appearance:none!important;background:whitesmoke;height:7px;border:1px solid #4F4F4F;width:260px;outline:none!important;}input[type='range']::-webkit-slider-thumb{-webkit-appearance:none!important;background-color:#FFF;height:15px;width:10px;border:1px solid #4F4F4F;cursor:pointer;-o-transition:.5s;-ms-transition:.5s;-moz-transition:.5s;-webkit-transition:.5s;transition:.5s;}input[type='range']::-webkit-slider-thumb:hover{background-color:#D8D8D8;}
+
+h1 {
+    display: inline;
+    font-family: Open Sans;
+    font-size: 25px;
+}
+
+.container {
+    text-align: center;
+    display: inline-block;
+}
+
+.container1 {
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    position: absolute;
+}
