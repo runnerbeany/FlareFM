@@ -10,7 +10,4 @@ It includes:
 
 ### Mobile
 
-The official temportary mobile page. Literally just a player.
-
-+ Simple mobile player
-+ No need for fancy design yet
+The official temportary mobile page. Literally just a player. Made by Geo (runnerbeany).
